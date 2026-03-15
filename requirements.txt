@@ -1,0 +1,12 @@
+PySide6
+Pillow
+numpy
+
+# Optional for advanced filters in some tools
+scipy
+opencv-python
+
+# Optional for URL scraper full mode
+selenium
+webdriver-manager
+requests
