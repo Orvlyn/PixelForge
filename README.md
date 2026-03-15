@@ -1,6 +1,6 @@
 # PixelForge Split Tools
 
-This folder contains the category-based standalone versions of PixelForge, split out from the main DNK app into separate focused tools.
+This folder contains the category-based standalone versions of PixelForge, split out from the main PixelForge app into separate focused tools.
 
 The goal of this setup is to keep each app simpler, cleaner, and easier to ship on its own while still keeping the same overall PixelForge look, theme system, updater flow, and general user experience.
 
