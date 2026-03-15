@@ -76,7 +76,6 @@ Included tools:
 - Rename Tool
 - Folder Analyzer
 - Format Converter
-- URL Scraper
 
 This standalone is intended for cleanup, batch utility tasks, lightweight file handling, and general support workflows around media and folders.
 
